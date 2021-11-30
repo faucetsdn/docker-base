@@ -1,6 +1,6 @@
 ## Image name: faucet/base
 
-FROM alpine:3.10.5
+FROM alpine:3.14
 
 RUN apk add --no-cache bash su-exec
 
